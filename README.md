@@ -19,3 +19,7 @@ NOTE :
 Make sure you create a new project in Firebase and set your web credientials in the config.js file
 
 ---
+
+Images :
+
+Checkout /AppScreenShots for the app's view
