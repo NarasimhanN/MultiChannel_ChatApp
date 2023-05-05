@@ -12,6 +12,7 @@ To Start :
 In Chat directory
 
 > > npm install
+
 > > npm start
 
 NOTE :
